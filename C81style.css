@@ -1,0 +1,13 @@
+
+h1
+{
+	color:rgb(255, 230, 0); 
+	font-size: 40px;
+}
+.body_backgorund {
+	background-image: url("background.jpg") ;
+}
+
+#my_canvas{
+border: 7ch dotted antiquewhite ;
+}
